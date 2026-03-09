@@ -52,4 +52,5 @@ console.log(Boolean([])); // true
 console.log(Boolean(undefined)); // false 
 
 //CHAPTER 3
+//OPERATO RS
 
